@@ -45,8 +45,13 @@ This project demonstrates basic networking concepts and asynchronous programming
 
 3. Open `index.html` in your browser.
 
+
+**Live Demo:** [Click here to open](https://kristigurtska.github.io/Network-Performance-Analyzer/)
+
+
 No installation or additional setup required.
 
 ---
+
 
 
