@@ -38,7 +38,7 @@ This project demonstrates basic networking concepts and asynchronous programming
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/network-performance-analyzer.git
+   git clone https://github.com/kristigurtska/Network-Performance-Analyzer.git
    ```
 
 2. Open the project folder.
@@ -48,4 +48,5 @@ This project demonstrates basic networking concepts and asynchronous programming
 No installation or additional setup required.
 
 ---
+
 
