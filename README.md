@@ -4,7 +4,7 @@ A simple web application that measures network request performance using JavaScr
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The **Network Performance Analyzer** is a small browser-based tool that measures how long a network request takes to complete.
 It sends a request to a public API and calculates the response time in milliseconds using JavaScript.
@@ -13,7 +13,7 @@ This project demonstrates basic networking concepts and asynchronous programming
 
 ---
 
-## ✨ Features
+##  Features
 
 * Analyze network request performance
 * Measure response time using `performance.now()`
@@ -23,7 +23,7 @@ This project demonstrates basic networking concepts and asynchronous programming
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
@@ -33,7 +33,7 @@ This project demonstrates basic networking concepts and asynchronous programming
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -52,6 +52,7 @@ This project demonstrates basic networking concepts and asynchronous programming
 No installation or additional setup required.
 
 ---
+
 
 
 
